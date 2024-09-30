@@ -25,8 +25,7 @@ Deploy the contract to the Goerli Testnet (a testing version of Ethereum).
 
  - Once the NFTs are minted, they can be approved and transferred to the Polygon Mumbai network using the FxPortal Bridge. This process allows your assets to move between Ethereum and Polygon networks.
 ## Licensing and Author:
-This project is licensed under the MIT License, meaning it's free for use and modification. The project was developed by Geet Kiran.
-
+This project is licensed under the MIT License and easy to use.
 ## Technical Information:
 Languages Used: The project is primarily built using JavaScript and Solidity.
 
