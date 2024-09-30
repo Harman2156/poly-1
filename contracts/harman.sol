@@ -31,7 +31,7 @@ contract harman is ERC721A {
     function mint(uint256 quantity) external payable onlyOwner {
         require(
             totalSupply() + quantity <= maxQuantity,
-            "You can not mint more than 5"
+            "not allowed mint more than 5"
         );
         _mint(msg.sender, quantity);
     }
