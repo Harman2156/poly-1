@@ -1,6 +1,6 @@
  # Polygon-Advanced-Module-1: NFT Collection on Ethereum and Polygon
 ## Project Overview
-This project focuses on deploying an NFT collection on the Ethereum blockchain (Goerli Testnet), mapping that collection to the Polygon network, and transferring assets between Ethereum and Polygon using the Polygon Bridge.
+This project focuses on deploying an NFT collection on the Ethereum blockchain (sepolia Testnet), mapping that collection to the Polygon network, and transferring assets between Ethereum and Polygon using the Polygon Bridge.
 
 ## Key Steps to Execute:
 1. Cloning the Repository:
